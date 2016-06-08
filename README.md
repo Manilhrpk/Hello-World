@@ -1,2 +1,5 @@
 # Hello-World
-Just another
+
+Hi People!
+
+I'm Mani and I love web programming. 
